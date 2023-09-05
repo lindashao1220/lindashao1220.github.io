@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-This is Linda's page!!!
+This is Linda's page!
