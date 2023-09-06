@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-This is Linda's page!hahahaah
+Hii, this is Linda's digital humanity class page:)
