@@ -1,7 +1,7 @@
 ---
 title: "Digital Literacy Narratives"
 permalink: /dln/
-date: 2019-04-18T15:34:30-04:00
+date: 2023-09-07T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -9,6 +9,7 @@ tags:
 author_profile: false
 ---
 
+## This is my dln for fall 2023
 As a 20-year-old university student, I embarked on a new academic adventure this semester: an introductory course in Digital Humanities. Little did I know that it would transform the way I perceive, interact with, and create content in the digital realm. This narrative explores my evolving digital literacy journey, the strategies I employ in my daily and academic life, and my aspirations for what lies ahead.
 
 Before enrolling in this course, my digital literacy skills were primarily centered around the basics. I knew how to use social media platforms, compose emails, and write research papers using Microsoft Word. My content creation process revolved around the simple tools available on my smartphone, and I hardly ventured beyond that comfort zone. Socially, I interacted with friends and classmates on Instagram, Snapchat, and Twitter, but I never delved into the deeper aspects of online communities or digital communication.
