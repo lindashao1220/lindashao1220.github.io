@@ -1,11 +1,6 @@
 ---
 title: "Digital Literacy Narratives"
 permalink: /dln/
-date: 2023-09-07T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Assignment 
 author_profile: false
 ---
 
