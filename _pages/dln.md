@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 ## This is my dln for fall 2023
-<img src="/assets/images/dh.jpg" style="zoom:50%"/>
+<img src="/assets/images/dh.jpg" style="zoom:100%"/>
 As a 20-year-old university student, I embarked on a new academic adventure this semester: an introductory course in Digital Humanities. Little did I know that it would transform the way I perceive, interact with, and create the digital contents. This narrative help me see the digital part of the world more clear and explores my evolving digital literacy journey,
 
 Before enrolling in this course, my digital literacy skills were primarily centered around the basics. I knew how to use social media platforms, compose emails, and write research papers using Microsoft Word. My content creation process revolved around the simple tools available on my smartphone, and I hardly ventured beyond that comfort zone. Socially, I interacted with friends and classmates on Instagram, Wechat, and Twitter, but I never delved into the deeper aspects of online communities or digital communication.
