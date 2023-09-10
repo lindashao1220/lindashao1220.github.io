@@ -5,15 +5,15 @@ author_profile: false
 ---
 
 ## This is my dln for fall 2023
-As a 20-year-old university student, I embarked on a new academic adventure this semester: an introductory course in Digital Humanities. Little did I know that it would transform the way I perceive, interact with, and create content in the digital realm. This narrative explores my evolving digital literacy journey, the strategies I employ in my daily and academic life, and my aspirations for what lies ahead.
+As a 20-year-old university student, I embarked on a new academic adventure this semester: an introductory course in Digital Humanities. Little did I know that it would transform the way I perceive, interact with, and create the digital contents. This narrative help me see the digital part of the world more clear and explores my evolving digital literacy journey,
 
-Before enrolling in this course, my digital literacy skills were primarily centered around the basics. I knew how to use social media platforms, compose emails, and write research papers using Microsoft Word. My content creation process revolved around the simple tools available on my smartphone, and I hardly ventured beyond that comfort zone. Socially, I interacted with friends and classmates on Instagram, Snapchat, and Twitter, but I never delved into the deeper aspects of online communities or digital communication.
+Before enrolling in this course, my digital literacy skills were primarily centered around the basics. I knew how to use social media platforms, compose emails, and write research papers using Microsoft Word. My content creation process revolved around the simple tools available on my smartphone, and I hardly ventured beyond that comfort zone. Socially, I interacted with friends and classmates on Instagram, Wechat, and Twitter, but I never delved into the deeper aspects of online communities or digital communication.
 
 In my daily life, I used Google Drive for document storage and Google Calendar for scheduling, but I never truly explored the wealth of digital tools available for research, data management, and analysis. Frankly, I was swimming in the shallow end of the digital pool, unaware of the vast ocean of possibilities that awaited.
 
-Enrolling in the Digital Humanities course was a pivotal moment. The course exposed me to a plethora of digital tools and concepts that have broadened my horizons. I learned about content management systems like WordPress, which opened up new avenues for blogging and website creation. Markdown language became my go-to for formatting text, and platforms like GitHub allowed me to collaborate with others on coding projects.
+Enrolling in the Digital Humanities course was a pivotal moment. The course exposed me to a plethora of digital tools and concepts that have broadened my horizons. I learned about content management systems like Jekyll, which opened up new avenues for blogging and website creation. Markdown language became my go-to for formatting text, and platforms like GitHub allowed me to collaborate with others on coding projects and allows me to do the version management.
 
-Social interaction, too, took on a new dimension as I explored platforms like Slack, Discord, and Reddit, which facilitated discussions and collaboration in ways I had never experienced before. I began to see how online communities formed around shared interests, and I realized the potential for networking and learning from experts in various fields.
+Social interaction, too, took on a new dimension as I explored platforms like Discord and Reddit, which facilitated discussions and collaboration in ways I had never experienced before. I began to see how online communities formed around shared interests, and I realized the potential for networking and learning from experts in various fields.
 
 However, the true eye-opener was when we delved into research data management and analysis. Tools like Zotero and Mendeley revolutionized the way I organize and cite my sources, making research more efficient and organized. We explored data manipulation with Python and data visualization with tools like Tableau, illuminating the power of data-driven insights.
 
@@ -26,7 +26,7 @@ In conclusion, my journey into digital humanities has been a transformative expe
 
 
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<!-- You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
@@ -44,4 +44,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
