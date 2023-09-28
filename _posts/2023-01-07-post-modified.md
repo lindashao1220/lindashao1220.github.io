@@ -7,8 +7,6 @@ tags:
   - Assignment
 ---
 
-Cultural Heritage By the Numbers
-
 For the assignment we chose the cultures of Turkey, India, and Persia. These cultures are incredibly diverse. Turkish culture has a mix of Eastern and Western influences. It is known for its geometric patterns and calligraphy. Indian culture is rich with various traditions, languages, and colorful art, often portraying gods and stories. Persian culture, one of the oldest, features stunning artwork, miniatures, and architecture. 
 
 In comparing the usability between the Harvard Art Museum (HAM) website and the provided CSV file, the website emerged as the more user-friendly option. The website allows for direct visualization of the art pieces, providing a more engaging and interactive experience. Additionally, the website offered convenient filters, making the artwork more accessible and easy to navigate. Using the website, we were able to explore the diverse art collections effortlessly. 
@@ -38,16 +36,16 @@ Most viewed Indian:
 4408	Manuscript of the 'Aja'ib al-makhluqat (Wonders of Creation) of Qazwini, with 253 paintings	Unknown Artist	Indian	https://www.harvardartmuseums.org/collections/object/216430
 
 Least viewed Indian:
-0  Folio from an Illustrated Manuscript of a Compendium of Knowledge (Jung), made for Shah Sulayma Persian 
-https://www.harvardartmuseums.org/collections/object/329118
+0  Folio from an Illustrated Manuscript of a Compendium of Knowledge (Jung), made for Shah Sulayma Persian <a href="https://www.harvardartmuseums.org/collections/object/329118">https://www.harvardartmuseums.org/collections/object/329118</a>
+
 
 
 Most viewed Turkish:    
-1569	Hexagonal tile with floral and cloud pattern	Turkish	https://www.harvardartmuseums.org/collections/object/215763
+1569	Hexagonal tile with floral and cloud pattern Turkish	<a href="https://www.harvardartmuseums.org/collections/object/215763">https://www.harvardartmuseums.org/collections/object/215763</a>
 
 Least viewed Turkish:
-0	Cover	Turkish
-https://www.harvardartmuseums.org/collections/object/214509
+0	Cover	Turkish <a href="https://www.harvardartmuseums.org/collections/object/214509">https://www.harvardartmuseums.org/collections/object/214509</a>
+
 
 
 The numbers of the most and least viewed objects surprise us greatly. All three least-viewed objects from these cultures have zero views. However, as we browse through the basic information of these objects, we think they all demonstrate their artistic value and refined details, and they also belong to a relatively modern time period. After looking at these least-viewed items, we believe the reason is poor visibility; the websites may be overshadowed by other content. Another possible reason could be the lack of promotion, and it's possible that these objects are not part of the collection exhibition. As for the most-viewed items, the most-viewed page for Persian culture has been visited 21,380 times, which exceeds our expectations. For Indian culture, the most-viewed objects have been viewed 4,408 times. We can observe a significant gap in the numbers even though the total collection for both cultures is the same. We believe this difference in numbers is attributed to the kind of research people are conducting. Taking "Bahram Gur Fights the Horned Wolf" as an example, this painting reveals the cosmopolitanism of the Ilkhanid court in Tabriz, a place teeming with merchants, missionaries, and diplomats from as far away as Europe and China. Individuals conducting research on trade and diplomacy of European countries and China may all use this piece as a reference. 
