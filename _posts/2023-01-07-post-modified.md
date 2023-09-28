@@ -59,7 +59,9 @@ Overall, we can see there is a really small amount of Turkish artwork, comprisin
 
 
 We used the csv file to come up with visual representations of the data. 
-<img src="/assets/images/1.png" style="zoom:100%"/>
+
+<img src="/assets/images/1.png" style="zoom:50%"/>
+
 <img src="/assets/images/2.png" style="zoom:100%"/>
 
 
@@ -68,9 +70,11 @@ The table and graph above shows the number of artworks present on the HAM websit
 
 The bar graph shows us the number of artworks by accession year.
 Word Clouds: 
-<img src="/assets/images/4.png" style="zoom:100%"/>
-<img src="/assets/images/5.png" style="zoom:100%"/>
-<img src="/assets/images/6.png" style="zoom:100%"/>
+<img src="/assets/images/4.png" style="zoom:80%"/>
+
+<img src="/assets/images/5.png" style="zoom:80%"/>
+
+<img src="/assets/images/6.png" style="zoom:80%"/>
 
 
 We notice that in the Persian word cloud, the word “manuscript” is the most prominent. By delving further into this aspect, it is worth noting that Persian manuscripts, primarily amassed in the early 20th century, owe their preservation to the distinguished Harvard alumnus, Bernard Berenson (1865–1959). Berenson cherished these invaluable works at his residence, Villa I Tatti, in Florence.  In a testament to his generosity and commitment to scholarship, he bequeathed this remarkable collection to Harvard, which has since become the Harvard University Center for Italian Renaissance Studies.
