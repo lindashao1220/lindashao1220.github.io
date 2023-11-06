@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1: Cultural Heritage By the Numbers"
+title: "Assignment 1 Cultural Heritage By the Numbers"
 last_modified_at: 2023-09-28T16:20:02-05:00
 categories:
   - Blog
