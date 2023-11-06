@@ -1,12 +1,11 @@
 ---
-title: "Assignment 3 Spatial Data"
-last_modified_at: 2023-11-12T16:20:02-05:00
+title: "Assignment 3 Working with a Corpus"
+last_modified_at: 2023-10-20T16:20:02-05:00
 categories:
   - Blog
 tags:
   - Assignment
 ---
-
 This assignment has four main elements: (1) identifying the spatial elements of The Brooklyn City and Business Directory (2) modeling a spatial dataset based on those elements, (3) enriching the spatial data with any other relevant metadata, (4) visualizing the data on a map, discussion and interpretion. So I will go through all of them in this blog post section by section.
 
 Step 1: As for choice of source, the souecebook that I worked with is #1 The Brooklyn City and Business Directory 1879-80. This directory contains names of people, their professions and street addresses, and provides information about businesses, residents, and various establishments in Brooklyn, New York, for the year 1880. 
