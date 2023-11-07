@@ -40,3 +40,11 @@ It's essential to recognize that directories of this nature might lack completen
 
 There is also drawbacks of the charts, as the picture shown below, we can see the population is distributed around the US, but not limited in New York City. I think this is very suspicious, since the book is only about the Brooklyn population distribution. I think the problem is because the geocoding part get wrong 😭But yea, thankfully most of them get right.
 <img src="/assets/images/15.png" style="zoom:80%"/>
+
+
+UPDATE🌟:
+
+
+<img src="/assets/images/16.png" style="zoom:80%"/>
+
+<img src="/assets/images/17.png" style="zoom:80%"/>
