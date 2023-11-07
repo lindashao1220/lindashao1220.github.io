@@ -1,7 +1,7 @@
 ---
 title: "Assignment 3 Spatil Daga"
 categories:
-  - blog
+  - Blog
 tags:
   - Assignment 
 ---
