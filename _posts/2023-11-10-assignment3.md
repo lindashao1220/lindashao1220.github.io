@@ -1,5 +1,6 @@
 ---
-title: "Assignment 3 Spatial Data"
+title: "Assignment 2 Working with a Corpus"
+last_modified_at: 2023-11-07T16:20:02-05:00
 categories:
   - Blog
 tags:
