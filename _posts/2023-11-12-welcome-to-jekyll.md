@@ -1,6 +1,6 @@
 ---
-title: "Assignment3"
-date: 2023-09-31T15:34:30-04:00
+title: "Assignment3 Spatial Data"
+date: 2023-10-22T15:34:30-04:00
 categories:
   - blog
 tags:
