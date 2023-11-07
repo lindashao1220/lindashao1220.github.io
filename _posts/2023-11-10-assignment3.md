@@ -39,7 +39,6 @@ By hovering around the data point in the map, I have found that the directory li
 It's essential to recognize that directories of this nature might lack completeness, and not all residents would have necessarily been included. Various reasons could account for individuals not appearing in the directory. Furthermore, my analysis focused solely on individuals whose names commenced with the letter 'A,' which implies that the final assessment may be limited in its representation of the entire population.
 
 There is also drawbacks of the charts, as the picture shown below, we can see the population is distributed around the US, but not limited in New York City. I think this is very suspicious, since the book is only about the Brooklyn population distribution. I think the problem is because the geocoding part get wrong 😭But yea, thankfully most of them get right.
-
 <img src="/assets/images/15.png" style="zoom:80%"/>
 
 
