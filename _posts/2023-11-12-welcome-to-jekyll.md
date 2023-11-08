@@ -43,8 +43,14 @@ There is also drawbacks of the charts, as the picture shown below, we can see th
 
 
 UPDATE🌟:
+The diagram appears inaccurate due to my failure to specify the location accurately within Brooklyn, New York. As Professor Wirsley pointed out, many states have streets with the same names, like Fifth Avenue and others, which can lead to confusion and misplaced dots on the map.
 
+
+I utilized Excel's concatenate function to append the string "Brooklyn, New York" to all the existing location data. Subsequently, I imported this modified data into Kepler.gl, resulting in the final visualization displayed below.
 
 <img src="/assets/images/16.png" style="zoom:80%"/>
 
 <img src="/assets/images/17.png" style="zoom:80%"/>
+
+I've observed that the current data visualization poses challenges in seeing data distribution, primarily due to the uniform yellow dot representation. As part of the project's future development, I plan to implement a color-coding system to differentiate between various job categories. This approach will help identify potential clusters of individuals with similar occupations, allowing for a more nuanced analysis of Brooklyn's business landscape in 1980.
+
